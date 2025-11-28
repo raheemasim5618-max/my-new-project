@@ -26,7 +26,7 @@ It demonstrates the UI of a chat interface similar to WhatsApp.
 
 ---
 
-## AuthoR
+## Author
 ABDUL RAHEEM 
 
 
